@@ -3,6 +3,11 @@ Let's make an object-oriented design for a multi-floor parking lot.
 
 A parking lot or car park is a dedicated cleared area that is intended for parking vehicles. In most countries where cars are a major mode of transportation, parking lots are a feature of every city and suburban area. Shopping malls, sports stadiums, megachurches, and similar venues often feature parking lots over large areas.
 
+<p align="center">
+  <img src="images/parkinglot.jpeg"><br>
+  <i>A Parking Lot</i>
+</p>
+
 # System Requirements
 We will focus on the following set of requirements while designing the parking lot:
 
@@ -53,6 +58,11 @@ Here are the top use cases for Parking Lot:
 * **Cash payment**: To pay the parking ticket through cash.
 * **Add/Modify parking rate**: To allow admin to add or modify the hourly parking rate.
 
+<p align="center">
+  <img src="images/parkinglot_class.svg"><br>
+  <i>Use case diagram</i>
+</p>
+
 # Class diagram
 Here are the main classes of our Parking Lot System:
 
@@ -82,5 +92,18 @@ Here are the main classes of our Parking Lot System:
 
 * **ElectricPanel**: Customers will use the electric panels to pay and charge their electric vehicles.
 
+<p align="center">
+  <img src="images/parkinglot_UML.png"><br>
+  <i>Class diagram</i>
+</p>
+
+<p align="center">
+  <img src="images/UML.svg"><br>
+</p>
+
 # Activity diagrams
 **Customer paying for parking ticket**: Any customer can perform this activity. Here are the set of steps:
+
+<p align="center">
+  <img src="images/parkinglot_pay.svg"><br>
+</p>
