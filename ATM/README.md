@@ -2,7 +2,7 @@
 An automated teller machine (ATM) is an electronic telecommunications instrument that provides the clients of a financial institution with access to financial transactions in a public space without the need for a cashier or bank teller. ATMs are necessary as not all the bank branches are open all days of the week, and some customers may not be in a position to visit a bank each time they want to withdraw or deposit money.
 
 <p align="center">
-  <img src="images/ATM.jpeg"><br>
+  <img src="images/ATM.jpg"><br>
 </p>
 
 ## Requirements and Goals of the System
