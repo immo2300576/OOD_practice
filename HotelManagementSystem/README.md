@@ -76,7 +76,7 @@ Here are the main classes of our Hotel Management System:
 * **RoomKey**: Each room can be assigned an electronic key card. Keys will have a barcode and will be uniquely identified by a key-ID.<br>
 
 <p align="center">
-  <img src="images/hotel_diagram.svg"><br>
+  <img src="images/hotel_diagram.png"><br>
   <i>Class diagram</i>
 </p>
 <p align="center">
