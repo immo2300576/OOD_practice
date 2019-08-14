@@ -7,7 +7,7 @@ Chess is a two-player strategy board game played on a chessboard, which is a che
   <img src="images/chess.jpg"><br>
 </p>
 
-# System Requirements
+## System Requirements
 We’ll focus on the following set of requirements while designing the game of chess:
 1. The system should support two online players to play a game of chess.<br>
 
@@ -25,7 +25,7 @@ We’ll focus on the following set of requirements while designing the game of c
 
 8. The game can finish either in a checkmate from one side, forfeit or stalemate (a draw), or resignation.<br>
 
-# Use case diagram
+## Use case diagram
 We have two actors in our system:
 * **Player**: A registered account in the system, who will play the game. The player will play chess moves.<br>
 * **Admin**: To ban/modify players.<br>
@@ -41,7 +41,7 @@ Here are the top use cases for chess:
   <i>Use case diagram</i>
 </p>
 
-# Class diagram
+## Class diagram
 Here are the main classes for chess:
 * **Player**: Player class represents one of the participants playing the game. It keeps track of which side (black or white) the player is playing.<br>
 
@@ -70,13 +70,13 @@ Here are the main classes for chess:
   <img src="images/UML.svg"><br>
 </p>
 
-# Activity diagrams
+## Activity diagrams
 * **Make move**: Any Player can perform this activity. Here are the set of steps to make a move:<br>
 <p align="center">
   <img src="images/chess_activity.svg"><br>
 </p>
 
-# Code
+## Code
 Here is the code for the top use cases.
 * **Enums, DataTypes, Constants**: Here are the required enums, data types, and constants:<br>
 ```
