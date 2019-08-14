@@ -94,10 +94,12 @@ Here is the description of the different classes of our Restaurant Management Sy
 <p align="center">
   <img src="images/restaurant_activity.svg"><br>
 </p>
+
 * **Make a reservation**: Any receptionist can perform this activity. Here are the steps to make a reservation:<br>
 <p align="center">
   <img src="images/restaurant_activity2.svg"><br>
 </p>
+
 * **Cancel a reservation**: Any receptionist can perform this activity. Here are the steps to cancel a reservation:<br>
 <p align="center">
   <img src="images/restaurant_activity3.svg"><br>
